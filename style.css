@@ -1,0 +1,17 @@
+h3{
+    color:blue;
+}
+p{
+    color:rgb(221, 23, 23);
+}
+.special{
+    color:blueviolet;
+    font-weight: bold;
+}
+h1+p{
+    font-size: 200;
+}
+heading{
+    color:black;
+    background-color:black;
+}
